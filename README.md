@@ -1,2 +1,4 @@
 # hello-world
-Test GitHub and its functions.
+This is really cool and fun. 
+
+Working with this method saves time and energy!
