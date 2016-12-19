@@ -1,0 +1,6 @@
+Testing Github functionalities,
+
+Working with Github:
+git clone <repository>
+git clone <url>
+git clone (creates a directory)

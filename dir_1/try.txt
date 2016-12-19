@@ -1,0 +1,7 @@
+Testing Part 2 of Github:
+
+Changes to the current directory need to be commited.
+
+Committed changes aren't INSTANTLY added to the repository.
+
+They are STAGED to be added to the actual repository.
